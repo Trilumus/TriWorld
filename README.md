@@ -1,2 +1,2 @@
-# TrixyWorld
-Virtual Space for the life and development of all things regarding Trixy and companions.
+# TriWorld
+Virtual-space for the life and development of all things regarding TriWorld and companions.
